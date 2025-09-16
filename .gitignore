@@ -1,3 +1,4 @@
 0_data/2023-citibike-tripdata/*
 0_data/2025-police-data/*
+0_data/_preprocessed-data/*
 .DS_Store
