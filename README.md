@@ -9,14 +9,14 @@ The code uses the following publicly available data.
 - **CitiBike Rides 2023**: "2023-citibike-tripdata.zip" under [CitiBike](https://s3.amazonaws.com/tripdata/index.html )
 - **NYPD Crash Data 2023**: "Motor Vehicle Collisions - Crashes" under [NYPD](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
-The data includes infromation on the individual rides (e.g., timestamps, location, membership) and accidents in New York (e.g., timestamps, location, injuries, vehicles).
+The data includes information on the individual rides (e.g., timestamps, location, membership) and accidents in New York (e.g., timestamps, location, injuries, vehicles).
 
 Details on data pre-processing in `0_data/README-data.md`
 
 Latest download on 13.09.2025
 
 ### Analysis
-Analysis is performed in a Jupyter notebook `1_notebooks/1_analysis.ipynb`, while initial thoughts are tested in `1_notebooks/0_playground.ipynb`. 
+Analysis is performed in a Jupyter notebook `1_notebooks/1_analysis.ipynb`, while initial thoughts are tested in `1_notebooks/0_playground.ipynb`. Key results are presented in `3_results/presentation.pdf`.
 
 ## Setup & Installation
 1. Clone this repo: `git clone https://github.com/dalita-danyali/data-science-challenge-citibike.git`
